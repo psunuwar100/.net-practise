@@ -1,0 +1,14 @@
+D:\devfinityTrainee\.NET\CRUD\CRUD\bin\Debug\net8.0\CRUD.exe
+D:\devfinityTrainee\.NET\CRUD\CRUD\bin\Debug\net8.0\CRUD.deps.json
+D:\devfinityTrainee\.NET\CRUD\CRUD\bin\Debug\net8.0\CRUD.runtimeconfig.json
+D:\devfinityTrainee\.NET\CRUD\CRUD\bin\Debug\net8.0\CRUD.dll
+D:\devfinityTrainee\.NET\CRUD\CRUD\bin\Debug\net8.0\CRUD.pdb
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfoInputs.cache
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.AssemblyInfo.cs
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.csproj.CoreCompileInputs.cache
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.dll
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\refint\CRUD.dll
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.pdb
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\CRUD.genruntimeconfig.cache
+D:\devfinityTrainee\.NET\CRUD\CRUD\obj\Debug\net8.0\ref\CRUD.dll
